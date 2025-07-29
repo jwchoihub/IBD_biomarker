@@ -8,9 +8,9 @@ This repository contains scripts and resources for analyzing and visualizing gut
 Our research aimed to identify reproducible and biologically meaningful microbial features capable of classifying IBD and its subtypes using fecal 16S rRNA gene sequencing data.
 
 ### Data and Methods
--**Sample Collection**: Fecal samples were collected from participants across multiple centers. DNA was extracted and subjected to 16S rRNA gene sequencing.
--**Data Processing**: Raw sequence data were processed using QIIME2 and DADA2 to obtain high-quality ASVs (amplicon sequence variants).
--**Analysis**: The downstream analysis was conducted in R.
+- **Sample Collection**: Fecal samples were collected from participants across multiple centers. DNA was extracted and subjected to 16S rRNA gene sequencing.
+- **Data Processing**: Raw sequence data were processed using QIIME2 and DADA2 to obtain high-quality ASVs (amplicon sequence variants).
+- **Analysis**: The downstream analysis was conducted in R.
 
 ### Note
 Please note that certain code modules and configuration details are currently unavailable due to the ongoing manuscript submission process.
