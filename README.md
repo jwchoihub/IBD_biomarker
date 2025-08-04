@@ -13,6 +13,6 @@ Our research aimed to identify reproducible and biologically meaningful microbia
 - **Analysis**: The downstream analysis was conducted in R.
 
 ### Note
-Please note that certain code modules and configuration details are currently unavailable due to the ongoing manuscript submission process.
-These components will be made publicly accessible following the publication of the manuscript.
-If reviewers or editors require access during peer review, please contact the corresponding author. Access can be granted under appropriate confidentiality terms.
+Some parts of the code (e.g., detailed configurations or parameters) are not publicly available at this time, as the manuscript is currently under submission.
+These components will be released after publication to ensure proper citation and responsible reuse.
+For academic or review-related inquiries, please feel free to contact us.
