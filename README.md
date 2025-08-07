@@ -9,8 +9,8 @@ Our research aimed to identify reproducible and biologically meaningful microbia
 
 ### Data and Methods
 - **Sample Collection**: Fecal samples were collected from participants across multiple centers. DNA was extracted and subjected to 16S rRNA gene sequencing.
-- **Data Processing**: Raw sequence data were processed using QIIME2 and DADA2 to obtain high-quality ASVs (amplicon sequence variants).
-- **Analysis**: The downstream analysis was conducted in R.
+- **Data Processing**: Raw sequence data were processed using QIIME2 and DADA2 to obtain high-quality ASVs (amplicon sequence variants). Raw FASTQ files are processed in QIIME2 to generate QIIME2 artifacts (e.g., `feature-table.qza`, `taxonomy.qza`). 
+- **Analysis**: The downstream analysis was conducted in R. Import the resulting `.qza` files into R and convert to a `phyloseq` object.
 
 ### Note
 Some parts of the code (e.g., detailed configurations or parameters) are not publicly available at this time, as the manuscript is currently under submission.
