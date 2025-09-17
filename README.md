@@ -13,6 +13,5 @@ Our research aimed to identify reproducible and biologically meaningful microbia
 - **Analysis**: The downstream analysis was conducted in R. Import the resulting `.qza` files into R and convert to a `phyloseq` object.
 
 ### Note
-Some parts of the code (e.g., detailed configurations or parameters) are not publicly available at this time, as the manuscript is currently under submission.
-These components will be released after publication to ensure proper citation and responsible reuse.
+Some parts of the code (e.g., detailed configurations or parameters) are not publicly available at this time, as the manuscript is currently under submission. These components will be released after publication to ensure proper citation and responsible reuse. In addition, we plan to provide a small test dataset (processed genus-level abundance table and metadata) together with example scripts to facilitate reproducibility and allow users to replicate the key analyses.
 For academic or review-related inquiries, please feel free to contact us.
